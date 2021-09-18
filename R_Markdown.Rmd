@@ -1,0 +1,19 @@
+---
+title: "R Markdown File"
+author: "Huang Baoge"
+date: "18/09/2021"
+output: html_document
+---
+
+# ST2195 Assignment 1
+
+This is my first *ST2195* assignment. 
+
+This file is the answer of **Q3** in Assignment 1. 
+
+I will include the R code for **Q2** below.
+
+```{r script}
+for (i in 1:10)
+  print(i)
+```
